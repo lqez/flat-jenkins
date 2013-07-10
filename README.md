@@ -18,7 +18,10 @@ DISCLAIMER
 ----------
 
 This is **not a mature** product. Still under construction.
-And there are no guarantees for cross browser compatibility.
+There are no guarantees for cross browser compatibility.
+
+And <https://raw.github.com> does not provide proper mime type, I put theme files into [gh-pages branch](<https://github.com/lqez/flat-jenkins/tree/gh-pages>).
+There is <https://rawgithub.com> out there, but I don't want to harass them.
 
 
 LICENSE
